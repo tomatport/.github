@@ -4,4 +4,4 @@
 
 Most content will be private, but, in time, there may be some bits and pieces that can be made public. 
 
-You may also be interested in [my college work](https://github.com/tomatsolihull).
+You may also be interested in [my college work](https://github.com/tomatsolihull), or code by the [Computer Networking Society](https://github.com/UoPNetSoc).
